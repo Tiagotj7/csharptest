@@ -5,7 +5,7 @@ using System;
 class index {
 
 // Declaração e inicialização de variáveis
-    static void main(){
+    static void Main(){
 
         int x = 5;
         int y = 7;
