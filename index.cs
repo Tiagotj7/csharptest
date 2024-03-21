@@ -1,3 +1,5 @@
+/*
+
 //projeto de conhecimento em C#!!!
 
 using System;
@@ -20,15 +22,13 @@ class index {
 
 //Exibindo os resultados
 
-    Console.WriteLine("Resultado t:" + t);
-    Console.WriteLine("Resultado m:" + m);
-    Console.WriteLine("Resultado l:" + l);
-    Console.WriteLine("Resultado j:" + j);
-
-
+    Console.WriteLine("Resultado t: " + t);
+    Console.WriteLine("Resultado m: " + m);
+    Console.WriteLine("Resultado l: " + l);
+    Console.WriteLine("Resultado j: " + j);
 
     }
 
 }
-
+*/
 //The end
