@@ -16,10 +16,15 @@ class index {
     int t = x+y+z;
     int m = x-y-z;
     int l = x*y*z;
+    double j = x +(double)y/z; // Garante que a divisão seja feita como double para obter um resultado preciso
 
 //Exibindo os resultados
 
-    
+    Console.WriteLine("Resultado t:" + t);
+    Console.WriteLine("Resultado m:" + m);
+    Console.WriteLine("Resultado l:" + l);
+    Console.WriteLine("Resultado j:" + j);
+
 
 
     }
