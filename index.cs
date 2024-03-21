@@ -13,6 +13,14 @@ class index {
 
 //Operações
 
+    int t = x+y+z;
+    int m = x-y-z;
+    int l = x*y*z;
+
+//Exibindo os resultados
+
+    
+
 
     }
 
